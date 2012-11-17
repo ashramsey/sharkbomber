@@ -19,7 +19,7 @@ public class PlayerClass : MonoBehaviour {
 		}		
 		transform.Translate(0,  0, speed * Time.deltaTime);
 		Debug.Log(Time.deltaTime);
-		
+		 
 		
 	}
 	
